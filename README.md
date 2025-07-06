@@ -53,11 +53,7 @@ php artisan key:generate
 6. Set up database in .env file
 In your .env file, 
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
 DB_DATABASE=your_db_name
-DB_USERNAME=root
 DB_PASSWORD=your_db_password_or_blank
 
 Change your_db_name into your database name like LoanDB
@@ -87,5 +83,5 @@ Deep Solanki
 This project is licensed under the MIT License.
 - See the License file for details
 
-# IF YOU ARE FACING ANY ISSUE TO SET UP THE PROJECT YOU CAN CONTACT ME ON GMAIL 
+## IF YOU ARE FACING ANY ISSUE TO SET UP THE PROJECT YOU CAN CONTACT ME ON GMAIL 
     -deepajaysolanki@gmail.com

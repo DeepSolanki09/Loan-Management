@@ -83,5 +83,4 @@ Deep Solanki
 This project is licensed under the MIT License.
 - See the License file for details
 
-## IF YOU ARE FACING ANY ISSUE TO SET UP THE PROJECT YOU CAN CONTACT ME ON GMAIL 
-    - deepajaysolanki@gmail.com
+

@@ -27,7 +27,7 @@ This is a Laravel-based Loan Management System (LOAN2GO) that helps manage loan 
 - PHP 8+
 - MySQL (via XAMPP)
 
-## Follow these steps to set up the projectt locally:
+## Follow these steps to set up the project locally:
 # Prerequisites
 - PHP (8.0+)
 - Composer
@@ -52,6 +52,17 @@ cp .env.example .env
 php artisan key:generate
 
 6. Set up database in .env file
+In your .env file, 
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_db_name
+DB_USERNAME=root
+DB_PASSWORD=your_db_password_or_blank
+
+Change your_db_name into your database name like LoanDB
+Change your_db_password_or_blank into your password if you want to add a password otherwise remove it 
 
 7. Run this command
 php artisan storage:link
@@ -61,3 +72,6 @@ php artisan migrate (if it asks you somthing , then reply 'yes')
 
 9. Open in browser
 https://127.0.0.1:8000
+
+# IF YOU ARE FACING ANY ISSUE TO SETUP THE PROJECT THEN YOU CAN CONTACT ME ON EMAIL
+ - deepajaysolanki@gmail.com

@@ -35,7 +35,6 @@ This is a Laravel-based Loan Management System (LOAN2GO) that helps manage loan 
 - Git (to clone the project)
 
 # Installation
-```bash
 1. clone the repository git clone
 https://github.com/your-username/loan-management-system.git
 
@@ -73,5 +72,20 @@ php artisan migrate (if it asks you somthing , then reply 'yes')
 9. Open in browser
 https://127.0.0.1:8000
 
-# IF YOU ARE FACING ANY ISSUE TO SETUP THE PROJECT THEN YOU CAN CONTACT ME ON EMAIL
- - deepajaysolanki@gmail.com
+## Usage
+- Start Aparche and MySQL from XAMPP
+- Run the laravel server:
+    php artisan serve
+- Open in browser
+https://127.0.0.1:8000
+
+## Author
+Deep Solanki
+@DeepSolanki09
+
+## License
+This project is licensed under the MIT License.
+- See the License file for details
+
+# IF YOU ARE FACING ANY ISSUE TO SET UP THE PROJECT YOU CAN CONTACT ME ON GMAIL 
+    -deepajaysolanki@gmail.com
